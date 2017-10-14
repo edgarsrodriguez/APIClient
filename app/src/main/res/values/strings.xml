@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APIClient</string>
+    <string name="get_posts">Get Posts</string>
+    <string name="get_comments">Get Comments</string>
+    <string name="see_posts">See Posts</string>
+    <string name="see_comments">See Comments</string>
+    <string name="post_posts">Post Posts</string>
+    <string name="post_comments">Post Comments</string>
+</resources>
